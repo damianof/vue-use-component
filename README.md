@@ -1,2 +1,2 @@
 # vue-use-component
-Just playing with vue plugins
+Just a starter-kit for creating Vue component libraries
